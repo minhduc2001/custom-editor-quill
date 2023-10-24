@@ -13,6 +13,7 @@ function App() {
           <Route path="/Add" component={Add} />
           <Route path="/Edit/:postID" component={Edit} />
           <Route path="/haha"></Route>
+          <R></R>
         </Switch>
       </Router>
     </div>
